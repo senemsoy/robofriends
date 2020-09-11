@@ -1,11 +1,14 @@
 ## Robofriends
+A simple React app built to learn the basics of it. It utilizes two APIs to create a stateful web application, JSONPlaceholder and RoboHash. Styling is done using Tachyons.
+
+This is my first application built with React, simple and responsive.
 
 ## Desktop
 Desktop version.
 
 <img src = "preview.png" width="800px"/>
 
-##Mobile
+## Mobile
 Mobile version.
 
 <img src = "responsive.png" width="800px"/>
@@ -16,7 +19,7 @@ You can search through the Robots!
 <img src = "search.png" width="800px"/>
 
 ## Scroll function
-You can scroll down and still have the search bar visible
+You can scroll down and still have the search bar visible.
 
 <img src = "scroll.png" width="800px"/>
 
