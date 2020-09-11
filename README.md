@@ -1,3 +1,26 @@
+## Robofriends
+
+## Desktop
+Desktop version.
+
+<img src = "preview.png" width="800px"/>
+
+##Mobile
+Mobile version.
+
+<img src = "responsive.png" width="800px"/>
+
+## Search function
+You can search through the Robots!
+
+<img src = "search.png" width="800px"/>
+
+## Scroll function
+You can scroll down and still have the search bar visible
+
+<img src = "scroll.png" width="800px"/>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
